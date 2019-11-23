@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job component Matches the snapshot 1`] = `
+<div
+  style={
+    Object {
+      "border": "1px solid #e1e1e1",
+      "display": "inline-grid",
+      "margin": 20,
+      "padding": 20,
+    }
+  }
+>
+  <img
+    src="https://jobs.github.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0Y0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ab76c4473e80a702772e7b1e1dc525a5fdeb2d05/sig.jpeg"
+    style={
+      Object {
+        "maxWidth": 200,
+      }
+    }
+  />
+  <h3>
+    Senior Frontend Engineer (React / Apollo / GraphQL)
+  </h3>
+  <a
+    href={null}
+  >
+    <h5>
+      Make School
+    </h5>
+  </a>
+  <p>
+    Full Time
+  </p>
+  <p>
+    San Francisco
+  </p>
+  <a
+    href="/jobs/023f89a1-f28d-408e-8ed5-89259c491c21"
+  >
+    Detail
+  </a>
+</div>
+`;
