@@ -51,7 +51,7 @@ const myObject = {};
 myObject["hello"] = "world";
 
 console.log(myObject);
-
+FU
 /***** ARROW FUNCTIONS *****/
 
 function helloworld() {
@@ -126,7 +126,7 @@ console.log("values", pa1, pa2, pa3);
         console.log("this promisse will end in five seconds...");
          window.setTimeout(() => {
              resolve("helloworld");
-         }, 5000)
+         }, 5000)n
     });
 
  pro1.then(function (value) {
